@@ -1,2 +1,2 @@
 # FICHIER-D-IDENTIFICATION-SCOLAIRE
-Permetre aux ecoles d'identifier les en les fournissant un numero de dossier scolaire et un parcour scolaire detailler
+CREAATION DE DOSSIERS D'IDENTIFICATION SCOLAIRE PERMETANT A CHAQUE ELEVES D;OBTERNIR UN  NUMERO DE DOSSIER SCOLAIRE ET  CHAQUE ECOLES UN REFERENTIEL
